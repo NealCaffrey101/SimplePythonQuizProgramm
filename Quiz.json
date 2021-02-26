@@ -1,0 +1,35 @@
+
+{ "questions":
+ [
+  {
+    "question1":"Which is the correct answer?",
+    "question2":"What is the highest mountain in the world?"
+  }
+],
+
+
+ "answers":
+ [
+  {
+    "answerA1":"A: ",
+    "answerB1":"B: ",
+    "answerC1":"C: ",
+    "answerD1":"D: "
+  },
+  {
+    "answerA2":"A: ",
+    "answerB2":"B: ",
+    "answerC2":"C: ",
+    "answerC2":"D: "
+  }
+],
+
+
+ "correct_answers":
+ [
+  {
+    "correct_answer1":"C",
+    "correct_answer2":"B"
+  }
+ ]
+}
